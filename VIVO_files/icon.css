@@ -1,0 +1,240 @@
+.icon.estudio {
+    background: #b0afaf;
+    max-width: 100%;
+    width: 40px;
+    height: 40px;
+    margin: 30px auto 0;
+    mask-size: cover;
+    transition: .5s;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    display: block;
+    -webkit-mask-image: url(/imagenes/icon/wellness.svg);
+    mask-image: url(/imagenes/icon/wellness.svg);
+}
+
+.icon.estudio.icon-estetoscopio {
+    mask-image: url(/imagenes/icon/estetoscopio.svg);
+}
+
+.icon.estudio.icon-proteger {
+    mask-image: url(/imagenes/icon/proteger.svg);
+}
+
+.icon.estudio.icon-antigenos,
+.icon.estudio.icon-test-antigenos-covid-19 {
+    mask-image: url(/imagenes/icon/antigenos.svg);
+}
+
+.icon.estudio.icon-pcr {
+    mask-image: url(/imagenes/icon/pcr.svg);
+}
+
+.icon.estudio.icon-ecografia,
+.icon.estudio.icon-US {
+    -webkit-mask-image: url(/imagenes/icon/ecografia.svg);
+    mask-image: url(/imagenes/icon/ecografia.svg);
+}
+
+.icon.estudio.icon-mamografia {
+    mask-image: url(/imagenes/icon/mamografia.svg);
+}
+
+.icon.estudio.icon-tac {
+    mask-image: url(/imagenes/icon/tac.svg);
+}
+
+.icon.estudio.icon-resonancia-magnetica,
+.icon.estudio.icon-MR {
+    -webkit-mask-image: url(/imagenes/icon/resonancia-magnetica.svg);
+    mask-image: url(/imagenes/icon/resonancia-magnetica.svg);
+}
+
+.icon.estudio.icon-estudios-geneticos {
+    mask-image: url(/imagenes/icon/estudios-geneticos.svg);
+}
+
+.icon.estudio.icon-coronavirus,
+.icon.estudio.icon-covid {
+    -webkit-mask-image: url(/imagenes/icon/coronavirus.svg);
+    mask-image: url(/imagenes/icon/coronavirus.svg);
+}
+
+.icon.estudio.icon-biopsia {
+    mask-image: url(/imagenes/icon/biopsia.svg);
+}
+
+.icon.estudio.icon-covid-19,
+.icon.estudio.icon-covid-19-old {
+    mask-image: url(/imagenes/icon/covid-19.svg);
+}
+
+.icon.estudio.icon-covid-19-madrid {
+    -webkit-mask-image: url(/imagenes/icon/covid-19-madrid.svg);
+    mask-image: url(/imagenes/icon/covid-19-madrid.svg);
+}
+
+.icon.estudio.icon-covid-19-saliva {
+    mask-image: url(/imagenes/icon/covid-19-saliva.svg);
+}
+
+.icon.estudio.icon-covid-19-saliva-madrid {
+    mask-image: url(/imagenes/icon/covid-19-saliva-madrid.svg);
+}
+
+.icon.estudio.icon-test-inmunidad-igg {
+    mask-image: url(/imagenes/icon/test-inmunidad-igg.svg);
+}
+
+.icon.estudio.icon-test-inmunidad-igg-ec {
+    mask-image: url(/imagenes/icon/test-inmunidad-igg-ec.svg);
+}
+
+.icon.estudio.icon-test-inmunidad-igg-ec-r {
+    mask-image: url(/imagenes/icon/test-inmunidad-igg-ec-r.svg);
+}
+
+.icon.estudio.icon-chequeo-post-covid {
+    mask-image: url(/imagenes/icon/chequeo-post-covid.svg);
+}
+
+.icon.estudio.icon-consulta-medica-especializada {
+    mask-image: url(/imagenes/icon/consulta-medica-especializada.svg);
+}
+
+.icon.estudio.icon-seguimiento-medico-especializado {
+    mask-image: url(/imagenes/icon/seguimiento-medico-especializado.svg);
+}
+
+.icon.estudio.icon-maternidad,
+.icon.estudio.icon-nida-natura,
+.icon.estudio.icon-nida {
+    mask-image: url(/imagenes/icon/maternidad.svg);
+}
+
+.icon.estudio.icon-nutricion {
+    mask-image: url(/imagenes/icon/nutricion.svg);
+}
+
+.icon.estudio.icon-oncologia,
+.icon.estudio.icon-cancer-mama,
+.icon.estudio.icon-cancer-hereditario {
+    mask-image: url(/imagenes/icon/oncologia.svg);
+}
+
+.icon.estudio.icon-paternidad,
+.icon.estudio.icon-prueba-paternidad {
+    mask-image: url(/imagenes/icon/paternidad.svg);
+}
+
+.icon.estudio.icon-wellness {
+    mask-image: url(/imagenes/icon/wellness.svg);
+}
+
+.icon.estudio.icon-alzheimer {
+    mask-image: url(/imagenes/icon/alzheimer.svg);
+}
+
+.icon.estudio.icon-dao {
+    mask-image: url(/imagenes/icon/dao.svg);
+}
+
+.icon.estudio.icon-diabetes-tipo-2 {
+    mask-image: url(/imagenes/icon/diabetes.svg);
+}
+
+.icon.estudio.icon-osteoporosis,
+.icon.estudio.icon-DS {
+    -webkit-mask-image: url(/imagenes/icon/osteoporosis.svg);
+    mask-image: url(/imagenes/icon/osteoporosis.svg);
+}
+
+.icon.estudio.icon-osteoporosis {
+    mask-image: url(/imagenes/icon/osteoporosis.svg);
+}
+
+.icon.estudio.icon-perfil-prevent-femenino {
+    mask-image: url(/imagenes/icon/perfil-femenino.svg);
+}
+
+.icon.estudio.icon-perfil-prevent-masculino {
+    mask-image: url(/imagenes/icon/perfil-masculino.svg);
+}
+
+.icon.estudio.icon-perfil-prevent-masculino {
+    mask-image: url(/imagenes/icon/perfil-masculino.svg);
+}
+
+.icon.estudio.icon-riesgo-cardiovascular {
+    mask-image: url(/imagenes/icon/cardiovascular.svg);
+}
+
+.icon.estudio.icon-enfermedad-celiaca {
+    mask-image: url(/imagenes/icon/celiaca.svg);
+}
+
+.icon.estudio.icon-intolerancias-geneticas-digestivas {
+    mask-image: url(/imagenes/icon/intolerancias.svg);
+}
+
+.icon.estudio.icon-analisis-nutrigenetica-sobrepeso {
+    mask-image: url(/imagenes/icon/nutrigenetica.svg);
+}
+
+.icon.estudio.icon-perfil-completo-nutri,
+.icon.estudio.icon-gene {
+    -webkit-mask-image: url(/imagenes/icon/perfil-nutri.svg);
+    mask-image: url(/imagenes/icon/perfil-nutri.svg);
+}
+
+.icon.estudio.icon-perfil-riesgo-cardiometabolico {
+    mask-image: url(/imagenes/icon/cardiometabolico.svg);
+}
+
+.icon.estudio.icon-24h,
+.icon.estudio.icon-entrega,
+.icon.estudio.icon-online,
+.icon.estudio.icon-pago,
+.icon.estudio.icon-laboratorio,
+.icon.estudio.icon-domicilio,
+.icon.estudio.icon-clinicas,
+.icon.estudio.icon-online-2,
+{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-color: $ primary-color;
+    margin: 0;
+}
+
+.icon.estudio.icon-pago {
+    mask-image: url(/imagenes/icon/pago.svg);
+}
+
+.icon.estudio.icon-24h {
+    mask-image: url(/imagenes/icon/24h.svg);
+}
+
+.icon.estudio.icon-entrega {
+    mask-image: url(/imagenes/icon/entrega.svg);
+}
+
+.icon.estudio.icon-online {
+    mask-image: url(/imagenes/icon/online.svg);
+}
+
+.icon.estudio.icon-laboratorio {
+    mask-image: url(/imagenes/icon/laboratorios.svg);
+}
+
+.icon.estudio.icon-domicilio {
+    mask-image: url(/imagenes/icon/domicilio.svg);
+}
+
+.icon.estudio.icon-clinicas {
+    mask-image: url(/imagenes/icon/clinicas.svg);
+}
+
+.icon.estudio.icon-online-2 {
+    mask-image: url(/imagenes/icon/online-2.svg);
+}
